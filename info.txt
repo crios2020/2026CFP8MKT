@@ -1,0 +1,10 @@
+Curso: Operador de Herramientas de Marketing Digital
+Duración: 96 hs reloj
+Días: Lunes y Miércoles
+Horario: 15:00 a XX:XX hs
+
+Profe: Carlos Ríos			c.rios@bue.edu.ar
+
+Materiales:		Aulas Virtuales
+				Github:			https://github.com/crios2020/2026CFP8MKT
+				
